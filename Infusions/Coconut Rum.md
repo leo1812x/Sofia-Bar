@@ -7,7 +7,7 @@ shelf_life: "60 days"
 storage: "Refrigerated"
 status: "in stock"
 next_prep: ""
-last_made: "2025-05-20"
+last_made: "2025-05-22"
 tags: ["infusion", "refrigerated", "rum", "coconut", "fat_washed"]
 ---
 
@@ -25,8 +25,9 @@ Stir periodically for 30 minutes. Freeze overnight, remove solid fat, strain rem
 - Store in appropriate bottle, label with name and date
 
 ## Used In
-- Not currently used in any cocktails
+- [[Woman from Cocociara]] (via batch)
 
 ## Notes
 - Prep at least 2 days before needed for service
 - Batch dispensers and bottles should be kept in coolers
+- **Keep in coolers** - as noted on prep sheet

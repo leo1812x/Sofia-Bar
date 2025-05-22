@@ -6,17 +6,15 @@ shelf_life: "30 days"
 storage: "Refrigerated"
 status: "in stock"
 next_prep: ""
-tags: ["gin", "luxardo", "cocchi_rosa", "batch"]
+tags: ["gin", "cocchi_rosa", "luxardo", "batch"]
 ---
 
 # Sign of Venus Batch
 
 ## Ingredients
-- 1.5 oz base spirit
-- 0.75 oz Cocchi Rosa
-- 0.5 oz Luxardo Apricot
-- 0.75 oz lemon juice
-- 0.25 oz basil syrup
+- 1.5L Gin
+- 750mL Cocchi Rosa
+- 500mL Luxardo Apricot
 
 ## Method
 1. Combine all ingredients in a clean container

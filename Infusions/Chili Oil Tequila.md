@@ -7,7 +7,7 @@ shelf_life: "60 days"
 storage: "Refrigerated"
 status: "in stock"
 next_prep: ""
-last_made: "2025-05-20"
+last_made: "2025-05-22"
 tags: ["infusion", "refrigerated", "tequila", "spicy"]
 ---
 
@@ -17,7 +17,7 @@ tags: ["infusion", "refrigerated", "tequila", "spicy"]
 - 2 oz chili oil per liter tequila
 
 ## Method
-Same method as olive oil vodka. Will not freeze solid, will need to be double strained!
+Same method as olive oil vodka. **Will not freeze solid, will need to be double strained!**
 
 ## Storage
 - Refrigerated
@@ -29,4 +29,5 @@ Same method as olive oil vodka. Will not freeze solid, will need to be double st
 
 ## Notes
 - Prep at least 2 days before needed for service
-- Batch dispensers and bottles should be kept in coolers
+- **Batch dispensers and bottles should be kept in coolers**
+- **Critical: Will not freeze solid - requires double straining**

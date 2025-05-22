@@ -7,7 +7,7 @@ shelf_life: "60 days"
 storage: "Refrigerated"
 status: "in stock"
 next_prep: ""
-last_made: "2025-05-20"
+last_made: "2025-05-22"
 tags: ["infusion", "refrigerated", "vodka", "savory"]
 ---
 
@@ -29,4 +29,4 @@ Same method as coconut rum
 
 ## Notes
 - Prep at least 2 days before needed for service
-- Batch dispensers and bottles should be kept in coolers
+- **Batch dispensers and bottles should be kept in coolers**

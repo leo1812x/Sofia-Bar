@@ -1,20 +1,20 @@
 ---
 name: "Category 3 Batch"
 type: "batch"
-volume: "503.0L approx."
+volume: "3.5L approx."
 shelf_life: "30 days"
 storage: "Refrigerated"
 status: "in stock"
 next_prep: ""
-tags: ["rum", "falernum", "built", "batch", "highball", "batch", "social"]
+tags: ["rum", "falernum", "built", "batch", "highball", "social"]
 ---
 
 # Category 3 Batch
 
 ## Ingredients
-- 1.5L white rum
-- 1.5L dark rum
-- 500mL golden falernum
+- 1.5L White Rum
+- 1.5L Dark Rum
+- 500mL Golden Falernum
 
 ## Method
 1. Combine all ingredients in a clean container

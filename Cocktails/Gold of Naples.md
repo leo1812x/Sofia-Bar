@@ -1,29 +1,32 @@
 ---
-name: Gold of Naples
-type: cocktail
-status: active
+name: "Gold of Naples"
+type: "cocktail"
+status: "active"
 date_created: 2025-05-21
-last_modified: 2025-05-21
-batch_linked: "[[../Batches/Gold of Naples batch|Gold of Naples batch]]"
-glassware: Collins
-garnish: Lime wedge
-method: Shake, dirty dump
-tags:
+last_modified: 2025-05-22
+batch_linked: "[[Gold of Naples Batch]]"
+glassware: "Collins"
+garnish: "Lime wedge"
+method: "Shake, dirty dump"
+tags: ["mezcal", "yuzu", "banana", "coconut", "lime", "shaken"]
 ---
 
-# Untitled
+# Gold of Naples
 
 ## Ingredients
-- 2oz [[../Batches/Gold of Naples batch|Gold of Naples batch]]
-- 0.75 [[../Syrups/Banana Dememara|Banana Dememara]]
-- 0.75 [[../Juices/Coconut Water|Coconut Water]]
-- 0.75 [[../Juices/Lime Juice|Lime Juice]]
+- 2 oz batch [[Gold of Naples Batch]]
+- 0.75 oz banana demerara [[Banana Demerara]]
+- 0.75 oz coconut water [[Coconut Water]]
+- 0.75 oz lime juice [[Lime Juice]]
 
 ## Preparation
-1. Shake
-2. Dirty dump
+1. Shake, dirty dump
+2. Serve in Collins glass
+3. Garnish with lime wedge
 
 ## Notes
+- Tropical flavor profile with smoky mezcal base
 
-
-![[../Batches/Gold of Naples batch|Gold of Naples batch]]
+## Linked Items
+- Batch: [[Gold of Naples Batch]]
+- Key Components: [[Mezcal]]

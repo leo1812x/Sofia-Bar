@@ -6,7 +6,7 @@ shelf_life: "30 days"
 storage: "Refrigerated"
 status: "in stock"
 next_prep: ""
-tags: ["tequila", "pamplemousse", "built", "keg", "batch"]
+tags: ["tequila", "pamplemousse", "built", "batch"]
 ---
 
 # Evening Colombo Batch
